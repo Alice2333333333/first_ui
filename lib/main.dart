@@ -25,7 +25,7 @@ class _MyAppState extends State<MyApp> {
         {'text': 'Black', 'score': 10},
         {'text': 'Red', 'score': 5},
         {'text': 'Green', 'score': 3},
-        {'text': 'Green', 'score': 1}
+        {'text': 'White', 'score': 1}
       ],
     },
     {
